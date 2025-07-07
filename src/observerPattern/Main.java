@@ -1,3 +1,5 @@
+package observerPattern;
+
 import observerPattern.dto.Post;
 import observerPattern.observer.AppNotifier;
 import observerPattern.observer.EmailNotifier;
