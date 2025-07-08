@@ -1,4 +1,4 @@
-package observerPattern.dto;
+package observerPattern.scene1.dto;
 
 public class Post {
     private String title;

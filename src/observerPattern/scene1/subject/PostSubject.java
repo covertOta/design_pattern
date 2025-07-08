@@ -1,8 +1,8 @@
-package observerPattern.subject;
+package observerPattern.scene1.subject;
 
 
-import observerPattern.dto.Post;
-import observerPattern.observer.PostObserver;
+import observerPattern.scene1.dto.Post;
+import observerPattern.scene1.observer.PostObserver;
 
 public interface PostSubject {
     void addObserver(PostObserver o);

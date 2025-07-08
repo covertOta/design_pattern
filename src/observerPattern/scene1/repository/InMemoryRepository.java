@@ -1,7 +1,7 @@
-package observerPattern.repository;
+package observerPattern.scene1.repository;
 
 
-import observerPattern.dto.Post;
+import observerPattern.scene1.dto.Post;
 
 import java.util.ArrayList;
 import java.util.List;
